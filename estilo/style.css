@@ -81,6 +81,7 @@ section.imagem p{
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 0px black;
+    margin-left: -40px;
 }
 footer{
     background-color: black;
