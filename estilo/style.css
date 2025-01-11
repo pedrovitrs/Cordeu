@@ -61,23 +61,24 @@ section.normal{
     color: black;
 }
 section.imagem{
-    background-image: rgb(51, 51 , 51);
+    background-image: rgba(77, 77, 77, 0.575);
     box-shadow: inset 6px 6px 12px rgba(0, 0, 0, 0.363);
     background-attachment: fixed;
 
 }
 section#img1{
-    background-image: url(../imagens/background001.jpg);
-    background-position: right center;
-    background-size: cover;
+    background-image: url(../poesia-img/foto\ casal.png);
+    
 }
 section#img2{                   
-    background-image: url(../imagens/background002.jpg);
-    background-position: left center;
-    background-size: cover;
+    background-image: url(../poesia-img/470475573_1562908074589211_4507171055960281800_n_17968567310815897.jpg);
+    background-attachment: fixed;
+    background-size: center center;
+    background-repeat: repeat-x;
+    
 }
 section.imagem p{
-    background-color: rgba(66, 66, 66, 0.685);
+    background-color: rgba(66, 66, 66, 0.514);
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 0px black;
